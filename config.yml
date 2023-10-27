@@ -30,7 +30,7 @@ browser:
     #type: webkit
     #type: firefox
     type: chromium
-    headless: false
+    headless: true
     firefoxUserPrefs:
         dom.webaudio.enabled: false
         media.volume_scale: 0
